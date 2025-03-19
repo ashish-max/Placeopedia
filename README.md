@@ -10,7 +10,5 @@ A one stop solution and a platform for sharing placement experiences, helping st
 
 ## Screenshots 📷  
 ### Home Page  
-![Home Page](./screenshots/homepage.png)  
+![Home Page](Placeopedia.png)  
 
-### Blog Page  
-![Blog Page](./screenshots/blogpage.png)  
